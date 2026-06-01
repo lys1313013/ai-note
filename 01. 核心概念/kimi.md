@@ -1,0 +1,1 @@
+https://www.kimi.com/code/console?from=kfc_overview_topbar
