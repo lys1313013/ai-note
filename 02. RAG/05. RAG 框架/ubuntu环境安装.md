@@ -1,3 +1,5 @@
+# ubuntu环境安装
+
 ```bash
 apt install python3-pip
 ```
