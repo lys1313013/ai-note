@@ -1,0 +1,6 @@
+summary
+entity
+concept
+index
+synthesis
+comparison
